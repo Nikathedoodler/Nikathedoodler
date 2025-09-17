@@ -16,7 +16,7 @@ With over 4 years of experience, I blend technical expertise and passion to craf
 
 **State Management:** Expert in React Context Hook for seamless state management
 
-**AI Integration:** Integrating AI with LangChain and OpenAI frameworks, including GPT-4 and GPT-3.5 Turbo
+**AI Integration:** Integrating AI with LangChain and OpenAI frameworks, as well as other LLM Models
 
 **Backend Development:** Building systems with Node.js, Express.js, and databases like MongoDB and Supabase
 
