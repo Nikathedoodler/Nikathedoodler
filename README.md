@@ -12,7 +12,7 @@ With over 4 years of experience, I blend technical expertise and passion to craf
 
 **UI/UX Design:** Crafting intuitive interfaces and enhancing user experience, including dark mode
 
-**Component Development:** Creating reusable React components for efficient development\
+**Component Development:** Creating reusable React components for efficient development
 
 **State Management:** Expert in React Context Hook for seamless state management
 
