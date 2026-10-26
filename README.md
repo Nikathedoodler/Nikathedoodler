@@ -4,7 +4,7 @@
 --------------------------------------------------------------------------
 **Full-Stack Web Developer**
 
-With over 5 years of experience, I blend technical expertise and passion to craft exceptional web applications and solutions. Proficient in HTML, CSS, JavaScript, TypeScript, and cutting-edge frameworks like React and Next.js, I excel in creating seamless user experiences. My deep knowledge spans AI technologies, including OpenAI and Langchain, and I am adept in backend technologies such as Node.js, Express.js, and databases like Supabase and MongoDB.
+With over 6 years of experience, I blend technical expertise and passion to craft exceptional web applications and solutions. Proficient in HTML, CSS, JavaScript, TypeScript, and cutting-edge frameworks like React and Next.js, I excel in creating seamless user experiences. My deep knowledge spans AI technologies, including OpenAI and Langchain, and I am adept in backend technologies such as Node.js, Express.js, and databases like Supabase and MongoDB.
 
 **Core Skills**
 --------------------------------------------------------------------------
